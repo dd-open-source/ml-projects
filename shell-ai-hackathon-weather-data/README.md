@@ -71,5 +71,6 @@ Trainable params: 2,651,780
 Non-trainable params: 0
 
 
-
-
+#### More info
+[Hackathon Level 1 PPT](https://github.com/dd-open-source/ml-projects/blob/main/shell-ai-hackathon-weather-data/Level1/ShellAI-DD-Team-Level1-Pitch.pptx)
+[Hackathon Level 2 PPT](https://github.com/dd-open-source/ml-projects/blob/main/shell-ai-hackathon-weather-data/Level2/L2_ShellAI_FinalPresentation.pptx)
